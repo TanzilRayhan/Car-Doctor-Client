@@ -1,5 +1,4 @@
 /* eslint-disable react/no-unknown-property */
-/* eslint-disable react/prop-types */
 
 const ServicesCard = ({ service }) => {
 
